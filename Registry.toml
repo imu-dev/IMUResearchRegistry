@@ -1,0 +1,6 @@
+name = "IMUResearchRegistry"
+uuid = "46bee5ec-8bb6-4ddc-be06-85bc0581ba26"
+repo = "git@github.com:imu-dev/IMUResearchRegistry.git"
+description = "Registry for Julia packages with research on the topic of IMU"
+
+[packages]
