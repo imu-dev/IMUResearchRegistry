@@ -4,3 +4,4 @@ repo = "git@github.com:imu-dev/IMUResearchRegistry.git"
 description = "Registry for Julia packages with research on the topic of IMU"
 
 [packages]
+95c10d2a-8732-4919-b9bb-bf23f71fa7d2 = { name = "IMUResearchRonin", path = "I/IMUResearchRonin" }
